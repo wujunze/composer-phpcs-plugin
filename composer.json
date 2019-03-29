@@ -1,6 +1,6 @@
 {
     "description": "Composer plugin for code style checking before commit using php-cs-fixer",
-    "name": "leap/composer-phpcs-plugin",
+    "name": "wujunze/composer-phpcs-plugin",
     "license": "MIT",
     "type": "composer-plugin",
     "require": {
