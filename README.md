@@ -3,6 +3,6 @@
 ## Installation
 
 ```
-composer require --dev leap/composer-phpcs-plugin
+composer require --dev wujunze/composer-phpcs-plugin
 ```
 
